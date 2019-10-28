@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GlobalLogicAssignment" duration-ms="113738" started-at="2019-10-28T14:59:20Z" finished-at="2019-10-28T15:01:14Z">
+    <groups>
+    </groups>
+    <test name="TaskOne" duration-ms="113738" started-at="2019-10-28T14:59:20Z" finished-at="2019-10-28T15:01:14Z">
+      <class name="com.discovery.go.automation.TestScripts.TaskOne">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, [Ljava.lang.Object;)[pri:0, instance:com.discovery.go.automation.TestScripts.TaskOne@5b275dab]" name="launchBrowser" is-config="true" duration-ms="42170" started-at="2019-10-28T14:59:20Z" finished-at="2019-10-28T15:00:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3b00856b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testTaskOne()[pri:0, instance:com.discovery.go.automation.TestScripts.TaskOne@5b275dab]" name="testTaskOne" duration-ms="69398" started-at="2019-10-28T15:00:02Z" finished-at="2019-10-28T15:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTaskOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.discovery.go.automation.TestScripts.TaskOne@5b275dab]" name="tearDown" is-config="true" duration-ms="2130" started-at="2019-10-28T15:01:11Z" finished-at="2019-10-28T15:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.discovery.go.automation.TestScripts.TaskOne -->
+    </test> <!-- TaskOne -->
+  </suite> <!-- GlobalLogicAssignment -->
+</testng-results>

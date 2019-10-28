@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GlobalLogicAssignment]">
+  <test thread-count="5" name="TaskOne(failed)">
+    <classes>
+      <class name="com.discovery.go.automation.TestScripts.TaskOne">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launchBrowser"/>
+          <include name="testTaskOne"/>
+        </methods>
+      </class> <!-- com.discovery.go.automation.TestScripts.TaskOne -->
+    </classes>
+  </test> <!-- TaskOne(failed) -->
+</suite> <!-- Failed suite [GlobalLogicAssignment] -->

@@ -1,6 +1,6 @@
 # globalLogic_Assignment
 
-###Scenario Automated###
+### Scenario Automated ###
 1. Navigate to https://go.discovery.com/
 2. Select “See All Shows” available in “Shows” tab
 3. Wait till the page loads and then select the shows which contain “APOLLO”
@@ -11,10 +11,10 @@
 8. Once favorite or unfavorite is done, goto “My Videos”.
 9. Validate the favorite or unfavorite titles under “FAVORITE SHOWS”
 
-###Browser Requirements###
+### Browser Requirements ###
 Chrome 78
 
-###Steps to execute###
+### Steps to execute ###
 1. Import as a maven project
 2. Right click on the testng.xml
 3. Select _Run As_ --> _TestNG Suite_ to run the suite.
